@@ -1,0 +1,22 @@
+first_name,last_name,email,department,role,username,status
+John,Smith,john.smith@company.com,IT,System Administrator,jsmith,Processed
+Sarah,Johnson,sarah.j@company.com,HR,HR Manager,sjohnson,Processed
+Michael,Williams,michael.williams@company.com,Finance,Financial Analyst,mwilliams,Processed
+David,Jones,david.jones@company.com,IT,Help Desk Technician,djones,Processed
+Daniel,Martinez,daniel.martinez@company.com,Operations,Operations Manager,dmartinez,Processed
+Ashley,Rodriguez,ashley.rodriguez@company.com,IT,Network Engineer,arodriguez,Processed
+Amanda,Lee,amanda.lee@company.com,HR,Recruiter,alee,Processed
+James,Walker,james.walker@company.com,Marketing,Content Writer,jwalker,Processed
+Jennifer,Hall,jennifer.hall@company.com,Sales,Account Executive,jhall,Processed
+Robert,Allen,robert.allen@company.com,IT,DevOps Engineer,rallen,Processed
+Michelle,Young,michelle.young@company.com,Operations,Logistics Coordinator,myoung,Processed
+William,Hernandez,william.h@company.com,Finance,Budget Analyst,whernandez,Processed
+Elizabeth,King,elizabeth.king@company.com,Marketing,Social Media Manager,eking,Processed
+Richard,Wright,richard.wright@company.com,Sales,Sales Manager,rwright,Processed
+Linda,Lopez,linda.lopez@company.com,HR,Benefits Coordinator,llopez,Processed
+Barbara,Scott,barbara.scott@company.com,Operations,Project Manager,bscott,Processed
+Thomas,Green,thomas.green@company.com,Finance,Senior Accountant,tgreen,Processed
+Mary,Adams,mary.adams@company.com,Marketing,Brand Manager,madams,Processed
+Christopher,Baker,christopher.baker@company.com,Sales,Business Development,cbaker,Processed
+Patricia,Gonzalez,patricia.gonzalez@company.com,IT,Database Administrator,pgonzalez,Processed
+Matthew,Nelson,matthew.nelson@company.com,Operations,Supply Chain Analyst,mnelson,Processed

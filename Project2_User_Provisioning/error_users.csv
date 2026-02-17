@@ -1,0 +1,5 @@
+first_name,last_name,email,department,role,status,error_reason
+Emily,Brown,,Marketing,Marketing Coordinator,Error,Missing required field: email
+Jessica,Garcia,jessica.garcia@,Sales,Sales Representative,Error,Invalid email format: jessica.garcia@
+,Thompson,chris.thompson@company.com,Finance,Accountant,Error,Missing required field: first_name
+Charles,Hill,charles@company,IT,Security Analyst,Error,Invalid email format: charles@company

@@ -1,0 +1,26 @@
+first_name,last_name,email,department,role
+John,Smith,john.smith@company.com,IT,System Administrator
+Sarah,Johnson,sarah.j@company.com,HR,HR Manager
+Michael,Williams,michael.williams@company.com,Finance,Financial Analyst
+Emily,Brown,,Marketing,Marketing Coordinator
+David,Jones,david.jones@company.com,IT,Help Desk Technician
+Jessica,Garcia,jessica.garcia@,Sales,Sales Representative
+Daniel,Martinez,daniel.martinez@company.com,Operations,Operations Manager
+Ashley,Rodriguez,ashley.rodriguez@company.com,IT,Network Engineer
+,Thompson,chris.thompson@company.com,Finance,Accountant
+Amanda,Lee,amanda.lee@company.com,HR,Recruiter
+James,Walker,james.walker@company.com,Marketing,Content Writer
+Jennifer,Hall,jennifer.hall@company.com,Sales,Account Executive
+Robert,Allen,robert.allen@company.com,IT,DevOps Engineer
+Michelle,Young,michelle.young@company.com,Operations,Logistics Coordinator
+William,Hernandez,william.h@company.com,Finance,Budget Analyst
+Elizabeth,King,elizabeth.king@company.com,Marketing,Social Media Manager
+Richard,Wright,richard.wright@company.com,Sales,Sales Manager
+Linda,Lopez,linda.lopez@company.com,HR,Benefits Coordinator
+Charles,Hill,charles@company,IT,Security Analyst
+Barbara,Scott,barbara.scott@company.com,Operations,Project Manager
+Thomas,Green,thomas.green@company.com,Finance,Senior Accountant
+Mary,Adams,mary.adams@company.com,Marketing,Brand Manager
+Christopher,Baker,christopher.baker@company.com,Sales,Business Development
+Patricia,Gonzalez,patricia.gonzalez@company.com,IT,Database Administrator
+Matthew,Nelson,matthew.nelson@company.com,Operations,Supply Chain Analyst

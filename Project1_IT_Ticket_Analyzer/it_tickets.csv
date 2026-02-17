@@ -1,0 +1,101 @@
+ticket_id,priority,status,resolution_time_hours,category,description
+TKT-001,High,Resolved,2.5,Network,VPN connection failure
+TKT-002,Medium,Resolved,4.0,Software,Office 365 license issue
+TKT-003,Low,Resolved,1.5,Hardware,Printer not working
+TKT-004,Critical,Resolved,0.5,Network,Complete network outage
+TKT-005,Medium,Resolved,3.0,Software,Application crash
+TKT-006,High,Resolved,2.0,Active Directory,User account locked
+TKT-007,Low,Resolved,5.0,Hardware,Mouse not responding
+TKT-008,Medium,Resolved,3.5,Software,Email sync issues
+TKT-009,Critical,Resolved,1.0,Network,Server down
+TKT-010,High,Resolved,2.5,Active Directory,Password reset request
+TKT-011,Medium,Resolved,4.5,Software,Software installation
+TKT-012,Low,Resolved,2.0,Hardware,Monitor display issue
+TKT-013,High,Resolved,3.0,Network,Slow internet connection
+TKT-014,Medium,Resolved,3.0,Software,Outlook configuration
+TKT-015,Critical,Resolved,0.75,Network,Internet completely down
+TKT-016,Low,Resolved,1.0,Hardware,Keyboard malfunction
+TKT-017,High,Resolved,2.5,Active Directory,Group policy issue
+TKT-018,Medium,Resolved,4.0,Software,Teams not working
+TKT-019,Low,Resolved,6.0,Hardware,USB port not working
+TKT-020,High,Resolved,2.0,Network,Wi-Fi connectivity issues
+TKT-021,Medium,Resolved,3.5,Software,SharePoint access problem
+TKT-022,Critical,Resolved,1.5,Active Directory,Domain controller failure
+TKT-023,Low,Resolved,2.5,Hardware,Laptop overheating
+TKT-024,High,Resolved,3.0,Network,Firewall blocking application
+TKT-025,Medium,Resolved,4.0,Software,Browser compatibility issue
+TKT-026,Low,Resolved,1.5,Hardware,Headset not working
+TKT-027,High,Resolved,2.5,Active Directory,Access permission denied
+TKT-028,Medium,Resolved,3.0,Software,PDF not opening
+TKT-029,Critical,Resolved,0.5,Network,Network switch failure
+TKT-030,Low,Resolved,5.0,Hardware,Docking station issue
+TKT-031,High,Resolved,2.0,Network,Remote desktop connection failed
+TKT-032,Medium,Resolved,3.5,Software,Antivirus update problem
+TKT-033,Low,Resolved,1.0,Hardware,External drive not detected
+TKT-034,High,Resolved,2.5,Active Directory,User profile corrupted
+TKT-035,Medium,Resolved,4.5,Software,Application licensing error
+TKT-036,Critical,Resolved,1.0,Network,Data center power outage
+TKT-037,Low,Resolved,2.0,Hardware,Webcam not functioning
+TKT-038,High,Resolved,3.0,Network,DNS resolution failure
+TKT-039,Medium,Resolved,3.5,Software,Excel file corrupted
+TKT-040,Low,Resolved,1.5,Hardware,Scanner not responding
+TKT-041,High,Resolved,2.5,Active Directory,Group membership issue
+TKT-042,Medium,Resolved,4.0,Software,Windows update failure
+TKT-043,Critical,Resolved,0.75,Network,Core router failure
+TKT-044,Low,Resolved,6.0,Hardware,Hard drive clicking noise
+TKT-045,High,Resolved,2.0,Network,SSL certificate expired
+TKT-046,Medium,Resolved,3.0,Software,Database connection timeout
+TKT-047,Low,Resolved,1.5,Hardware,Touchpad not working
+TKT-048,High,Resolved,2.5,Active Directory,Login script error
+TKT-049,Medium,Resolved,3.5,Software,File share access denied
+TKT-050,Critical,Resolved,1.5,Network,Load balancer down
+TKT-051,Low,Resolved,2.0,Hardware,DVD drive not reading
+TKT-052,High,Resolved,3.0,Network,Port forwarding issue
+TKT-053,Medium,Resolved,4.0,Software,Mobile device sync problem
+TKT-054,Low,Resolved,1.0,Hardware,Battery draining quickly
+TKT-055,High,Resolved,2.5,Active Directory,OU permissions incorrect
+TKT-056,Medium,Resolved,3.5,Software,Cloud storage not syncing
+TKT-057,Critical,Resolved,0.5,Network,Internet gateway failure
+TKT-058,Low,Resolved,5.0,Hardware,Fan making loud noise
+TKT-059,High,Resolved,2.0,Network,DHCP scope exhausted
+TKT-060,Medium,Resolved,3.0,Software,API authentication failure
+TKT-061,Low,Resolved,1.5,Hardware,HDMI port not working
+TKT-062,High,Resolved,2.5,Active Directory,Trust relationship failed
+TKT-063,Medium,Resolved,4.5,Software,Version compatibility issue
+TKT-064,Critical,Resolved,1.0,Network,BGP routing failure
+TKT-065,Low,Resolved,2.0,Hardware,Bluetooth not connecting
+TKT-066,High,Resolved,3.0,Network,Bandwidth saturation
+TKT-067,Medium,Resolved,3.5,Software,Database query timeout
+TKT-068,Low,Resolved,1.0,Hardware,Audio jack not working
+TKT-069,High,Resolved,2.5,Active Directory,Replication failure
+TKT-070,Medium,Resolved,4.0,Software,License activation failed
+TKT-071,Critical,Resolved,0.75,Network,Fiber cut
+TKT-072,Low,Resolved,6.0,Hardware,System running slow
+TKT-073,High,Resolved,2.0,Network,NAT configuration error
+TKT-074,Medium,Resolved,3.0,Software,Plugin not compatible
+TKT-075,Low,Resolved,1.5,Hardware,Card reader malfunction
+TKT-076,High,Resolved,2.5,Active Directory,Schema mismatch
+TKT-077,Medium,Resolved,3.5,Software,Report generation error
+TKT-078,Critical,Resolved,1.5,Network,Redundancy failure
+TKT-079,Low,Resolved,2.0,Hardware,Display flickering
+TKT-080,High,Resolved,3.0,Network,QoS policy not working
+TKT-081,Medium,Resolved,4.0,Software,Backup job failed
+TKT-082,Low,Resolved,1.0,Hardware,Touchscreen not responsive
+TKT-083,High,Resolved,2.5,Active Directory,Group policy not applying
+TKT-084,Medium,Resolved,3.5,Software,Integration API down
+TKT-085,Critical,Resolved,0.5,Network,DDoS attack
+TKT-086,Low,Resolved,5.0,Hardware,System overheating
+TKT-087,High,Resolved,2.0,Network,Proxy server error
+TKT-088,Medium,Resolved,3.0,Software,Session timeout
+TKT-089,Low,Resolved,1.5,Hardware,LED indicator not working
+TKT-090,High,Resolved,2.5,Active Directory,Kerberos authentication failure
+TKT-091,Medium,Resolved,4.5,Software,Patch deployment issue
+TKT-092,Critical,Resolved,1.0,Network,Core switch stack failure
+TKT-093,Low,Resolved,2.0,Hardware,Caps lock stuck
+TKT-094,High,Resolved,3.0,Network,VLAN misconfiguration
+TKT-095,Medium,Resolved,3.5,Software,Service not starting
+TKT-096,Low,Resolved,1.0,Hardware,Power button stuck
+TKT-097,High,Resolved,2.5,Active Directory,LDAP query timeout
+TKT-098,Medium,Resolved,4.0,Software,Credential prompt looping
+TKT-099,Critical,Resolved,0.75,Network,Redundant link failure
+TKT-100,Low,Resolved,6.0,Hardware,System not booting

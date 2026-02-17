@@ -1,0 +1,24 @@
+======================================================================
+IT TICKET ANALYSIS REPORT
+Generated: 2026-02-17 02:50:08
+======================================================================
+
+OVERALL METRICS
+----------------------------------------------------------------------
+Total Tickets: 100
+Average Resolution Time: 2.65 hours
+Critical Tickets: 15
+
+TICKETS BY PRIORITY
+----------------------------------------------------------------------
+Medium: 29 tickets
+High: 28 tickets
+Low: 28 tickets
+Critical: 15 tickets
+
+TICKETS BY CATEGORY
+----------------------------------------------------------------------
+Software: 29 tickets
+Network: 28 tickets
+Hardware: 28 tickets
+Active Directory: 15 tickets

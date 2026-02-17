@@ -1,0 +1,33 @@
+======================================================================
+SYSTEM HEALTH MONITOR - LOG ANALYSIS REPORT
+Generated: 2026-02-17 03:03:27
+======================================================================
+
+OVERALL STATISTICS
+----------------------------------------------------------------------
+Total Log Entries: 98
+INFO: 52
+WARNING: 20
+ERROR: 16
+CRITICAL: 10
+
+TOP 5 MOST FREQUENT ERRORS
+----------------------------------------------------------------------
+1. Database query timeout after 30 seconds (occurred 2 times)
+2. Failed to write to log file: Permission denied (occurred 1 times)
+3. Service authentication failed - invalid credentials (occurred 1 times)
+4. Security alert: Multiple failed login attempts detected (occurred 1 times)
+5. Backup failed: Insufficient storage space (occurred 1 times)
+
+CRITICAL EVENTS
+----------------------------------------------------------------------
+[2026-02-17 08:40:28] Service authentication failed - invalid credentials
+[2026-02-17 08:40:29] Security alert: Multiple failed login attempts detected
+[2026-02-17 09:30:12] Database server unresponsive
+[2026-02-17 09:30:15] Failover to secondary database initiated
+[2026-02-17 10:10:45] Transaction processing halted
+[2026-02-17 11:25:33] Intrusion attempt detected from IP: 192.168.1.100
+[2026-02-17 11:25:35] IP address blocked: 192.168.1.100
+[2026-02-17 11:50:15] Service degradation: data_processor offline
+[2026-02-17 14:05:40] Authentication service down
+[2026-02-17 14:05:42] All user logins temporarily blocked
